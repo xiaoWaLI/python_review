@@ -1,2 +1,2 @@
 # python_review
-personal review
+personal learnnote
